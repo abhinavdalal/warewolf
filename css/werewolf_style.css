@@ -41,12 +41,12 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
 }
 
 .werewolf-top-menu .navbar-toggle {
-    margin-top: 38px;
+    margin-top: 30px;
 }
 
 .werewolf-top-menu .navbar-brand {
     padding: 0;
-    margin: 30px 0 0 0;
+    margin: 10px 5px 10px 0;
 }
 
 /* ------ Carousel ----- */
